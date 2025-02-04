@@ -1,0 +1,33 @@
+ Name              Version      License                               URL                                                 
+ Flask             3.1.0        BSD License                           https://github.com/pallets/flask/                   
+ Flask-RESTful     0.3.10       BSD License                           https://www.github.com/flask-restful/flask-restful/ 
+ Jinja2            3.1.5        BSD License                           https://github.com/pallets/jinja/                   
+ MarkupSafe        3.0.2        BSD License                           https://github.com/pallets/markupsafe/              
+ Werkzeug          3.1.3        BSD License                           UNKNOWN                                             
+ aniso8601         10.0.0       BSD License                           https://bitbucket.org/nielsenb/aniso8601            
+ blinker           1.9.0        MIT License                           https://github.com/pallets-eco/blinker/             
+ click             8.1.8        BSD License                           https://github.com/pallets/click/                   
+ coverage          7.6.10       Apache Software License               https://github.com/nedbat/coveragepy                
+ et_xmlfile        2.0.0        MIT License                           https://foss.heptapod.net/openpyxl/et_xmlfile       
+ gunicorn          23.0.0       MIT License                           https://gunicorn.org                                
+ imbalanced-learn  0.13.0       MIT License                           https://imbalanced-learn.org/                       
+ iniconfig         2.0.0        MIT License                           https://github.com/pytest-dev/iniconfig             
+ itsdangerous      2.2.0        BSD License                           https://github.com/pallets/itsdangerous/            
+ joblib            1.4.2        BSD License                           https://joblib.readthedocs.io                       
+ marshmallow       3.26.1       MIT License                           https://github.com/marshmallow-code/marshmallow     
+ numpy             2.2.2        BSD License                           https://numpy.org                                   
+ openpyxl          3.1.5        MIT License                           https://openpyxl.readthedocs.io                     
+ packaging         24.2         Apache Software License; BSD License  https://github.com/pypa/packaging                   
+ pandas            2.2.3        BSD License                           https://pandas.pydata.org                           
+ pluggy            1.5.0        MIT License                           https://github.com/pytest-dev/pluggy                
+ pytest            8.3.4        MIT License                           https://docs.pytest.org/en/latest/                  
+ pytest-cov        6.0.0        MIT License                           https://github.com/pytest-dev/pytest-cov            
+ python-dateutil   2.9.0.post0  Apache Software License; BSD License  https://github.com/dateutil/dateutil                
+ python-dotenv     1.0.1        BSD License                           https://github.com/theskumar/python-dotenv          
+ pytz              2025.1       MIT License                           http://pythonhosted.org/pytz                        
+ scikit-learn      1.6.1        BSD License                           https://scikit-learn.org                            
+ scipy             1.15.1       BSD License                           https://scipy.org/                                  
+ six               1.17.0       MIT License                           https://github.com/benjaminp/six                    
+ sklearn-compat    0.1.3        BSD License                           https://sklearn-compat.readthedocs.io/en/           
+ threadpoolctl     3.5.0        BSD License                           https://github.com/joblib/threadpoolctl             
+ tzdata            2025.1       Apache Software License               https://github.com/python/tzdata                    
