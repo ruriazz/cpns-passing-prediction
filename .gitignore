@@ -47,6 +47,8 @@ flask_session/
 *.db
 *.sqlite3
 src/ml/.*
+*.trained
+.tmp/
 
 # OS specific
 .DS_Store

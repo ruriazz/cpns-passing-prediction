@@ -34,7 +34,7 @@ class PredictionService:
         try:
             return self.predictor.predict(data)
         except Exception as e:
-            raise RuntimeError(f"Prediction failed: {str(e)}")
+            raise RuntimeError(f"Prediction failed: {str(e)}") from e
 
     def train(self, file_path: str) -> bool:
         """
@@ -55,4 +55,4 @@ class PredictionService:
         try:
             return self.predictor.train(file_path=file_path, force_retrain=True)
         except Exception as e:
-            raise RuntimeError(f"Training failed: {str(e)}")
+            raise RuntimeError(f"Training failed: {str(e)}") from e
